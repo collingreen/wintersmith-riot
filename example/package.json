@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "wintersmith-riot": "*",
+    "browsernizr": "*"
+  },
+  "repository": "none"
+}

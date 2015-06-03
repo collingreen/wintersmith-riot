@@ -1,0 +1,16 @@
+{
+  "name": "wintersmith-riot",
+  "version": "0.1.0",
+  "author": "Collin Green <collin@collingreen.com>",
+  "description": "riot plugin for wintersmith",
+  "license": "MIT",
+  "keywords": [
+    "wintersmith",
+    "wintersmith-plugin",
+    "riot"
+  ],
+  "dependencies": {
+    "riot": "^2.1.0",
+    "coffee-script": "~1.7.1"
+  }
+}
